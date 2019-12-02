@@ -9,3 +9,4 @@ puzzle collections from codewars
 - [求得分最高的单词](rust/highest_scoring_word)
 - [求字符串中某些字符的出现次数](rust/error_histogram)
 - [求某极大数的最后一位](rust/last_digit)
+- [Persistence Bugger](rust/persistent_bugger)
