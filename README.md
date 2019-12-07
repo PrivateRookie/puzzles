@@ -10,3 +10,4 @@ puzzle collections from codewars
 - [求字符串中某些字符的出现次数](rust/error_histogram)
 - [求某极大数的最后一位](rust/last_digit)
 - [Persistence Bugger](rust/persistent_bugger)
+- [简单字符替换加密](rust/simple_cipher)
